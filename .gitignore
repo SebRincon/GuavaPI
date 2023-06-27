@@ -4,3 +4,5 @@ _temp.txt
 GuavaPi/.DS_Store
 venv/
 */~$pinout-description.xlsx
+GuavaPi/GuavaPi-backups/
+.DS_Store
