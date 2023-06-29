@@ -1,4 +1,4 @@
-21739573250614370
+21742949008343024
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60928,6 +60928,13 @@ ESP8266 WiFi microcontroller
 20
 20
 Module
+Allwinner-H616
+
+
+0
+284
+212
+Module
 Arduino_Nano
 Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
 Arduino Nano
@@ -60990,6 +60997,13 @@ Electrosmith Daisy Seed Microcontroller Module ARM Cortex-M7 Audio Codec
 0
 40
 40
+Module
+H616
+
+
+0
+284
+284
 Module
 Maple_Mini
 Maple Mini, http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/0.0.12/hardware/maple-mini.html

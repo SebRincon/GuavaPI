@@ -326,6 +326,22 @@
     [
       "3be7235b-2d12-456d-bbdb-dcc9c2ae1afd",
       ""
+    ],
+    [
+      "ee47a8ed-1560-4850-b72b-05512224a0ba",
+      "GPIO"
+    ],
+    [
+      "dc1a4d83-a933-4336-ba01-88286996a5dc",
+      "SDRAM"
+    ],
+    [
+      "cdc4c29d-b8ce-4a88-b280-649e912d2091",
+      "Peripherals"
+    ],
+    [
+      "0e09d813-5fde-42ce-9948-43290a465bd7",
+      "Power"
     ]
   ],
   "text_variables": {}
