@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "allwinner_h616")(type "KiCad")(uri "${KIPRJMOD}/allwinner_h616.kicad_sym")(options "")(descr ""))
+  (lib (name "D2516ECMDXGJD-U")(type "KiCad")(uri "/Users/sebastian/Developer/GuavaPi/GuavaPI/libs/LIB_D2516ECMDXGJD-U/D2516ECMDXGJD-U.kicad_sym")(options "")(descr ""))
+)

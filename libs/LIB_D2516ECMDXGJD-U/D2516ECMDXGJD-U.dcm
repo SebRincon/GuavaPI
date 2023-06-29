@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D2516ECMDXGJD-U
+D DRAM Chip DDR3L SDRAM 4Gbit 256Mx16 1.35V 96-Pin FBGA
+K
+F http://www1.futureelectronics.com/doc/Kingston/D2516ECMDXGnnnn-UCommercial%26Industrial.pdf
+$ENDCMP
+#
+#End Doc Library
