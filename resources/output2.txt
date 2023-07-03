@@ -1,0 +1,225 @@
+
+      (pin output line (at 0 -2.7 0) (length 2.54)
+        (name "AGND" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -5.24 0) (length 2.54)
+        (name "WL_BT_ANT" (effects (font (size 1.27 1.27))))
+        (number "2" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -7.78 0) (length 2.54)
+        (name "AGND" (effects (font (size 1.27 1.27))))
+        (number "3" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -10.32 0) (length 2.54)
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "4" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -12.86 0) (length 2.54)
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "5" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -15.4 0) (length 2.54)
+        (name "HOST_WAKE_BT" (effects (font (size 1.27 1.27))))
+        (number "6" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -17.94 0) (length 2.54)
+        (name "BT_WAKE_HOST" (effects (font (size 1.27 1.27))))
+        (number "7" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -20.48 0) (length 2.54)
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "8" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -23.02 0) (length 2.54)
+        (name "VBAT_IN" (effects (font (size 1.27 1.27))))
+        (number "9" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -25.56 0) (length 2.54)
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "10" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -28.1 0) (length 2.54)
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "11" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -30.64 0) (length 2.54)
+        (name "WL_DIS#" (effects (font (size 1.27 1.27))))
+        (number "12" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -33.18 0) (length 2.54)
+        (name "WL_HOST_WAKE" (effects (font (size 1.27 1.27))))
+        (number "13" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -35.72 0) (length 2.54)
+        (name "SD_D2" (effects (font (size 1.27 1.27))))
+        (number "14" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -38.26 0) (length 2.54)
+        (name "SD_D3" (effects (font (size 1.27 1.27))))
+        (number "15" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -40.8 0) (length 2.54)
+        (name "SD_CMD" (effects (font (size 1.27 1.27))))
+        (number "16" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -43.34 0) (length 2.54)
+        (name "SD_CLK" (effects (font (size 1.27 1.27))))
+        (number "17" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -45.88 0) (length 2.54)
+        (name "SD_D0" (effects (font (size 1.27 1.27))))
+        (number "18" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -48.42 0) (length 2.54)
+        (name "SD_D1" (effects (font (size 1.27 1.27))))
+        (number "19" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -50.96 0) (length 2.54)
+        (name "AGND" (effects (font (size 1.27 1.27))))
+        (number "20" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -53.5 0) (length 2.54)
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "21" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -56.04 0) (length 2.54)
+        (name "VDDIO" (effects (font (size 1.27 1.27))))
+        (number "22" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -58.58 0) (length 2.54)
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "23" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -61.12 0) (length 2.54)
+        (name "SUSCLK_IN" (effects (font (size 1.27 1.27))))
+        (number "24" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -63.66 0) (length 2.54)
+        (name "PCM_OUT" (effects (font (size 1.27 1.27))))
+        (number "25" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -66.2 0) (length 2.54)
+        (name "PCM_CLK" (effects (font (size 1.27 1.27))))
+        (number "26" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -68.74 0) (length 2.54)
+        (name "PCM_IN" (effects (font (size 1.27 1.27))))
+        (number "27" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -71.28 0) (length 2.54)
+        (name "PCM_SYNC" (effects (font (size 1.27 1.27))))
+        (number "28" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -73.82 0) (length 2.54)
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "29" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -76.36 0) (length 2.54)
+        (name "MAIN_XTAL_IN" (effects (font (size 1.27 1.27))))
+        (number "30" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -78.9 0) (length 2.54)
+        (name "AGND" (effects (font (size 1.27 1.27))))
+        (number "31" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -81.44 0) (length 2.54)
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "32" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -83.98 0) (length 2.54)
+        (name "AGND" (effects (font (size 1.27 1.27))))
+        (number "33" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -86.52 0) (length 2.54)
+        (name "BT_DIS#" (effects (font (size 1.27 1.27))))
+        (number "34" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -89.06 0) (length 2.54)
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "35" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -91.6 0) (length 2.54)
+        (name "AGND" (effects (font (size 1.27 1.27))))
+        (number "36" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -94.14 0) (length 2.54)
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "37" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -96.68 0) (length 2.54)
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "38" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -99.22 0) (length 2.54)
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "39" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -101.76 0) (length 2.54)
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "40" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -104.3 0) (length 2.54)
+        (name "UART_RTS" (effects (font (size 1.27 1.27))))
+        (number "41" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -106.84 0) (length 2.54)
+        (name "UART_OUT" (effects (font (size 1.27 1.27))))
+        (number "42" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -109.38 0) (length 2.54)
+        (name "UART_IN" (effects (font (size 1.27 1.27))))
+        (number "43" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -111.92 0) (length 2.54)
+        (name "UART_CTS" (effects (font (size 1.27 1.27))))
+        (number "44" (effects (font (size 1.27 1.27))))
+      )
+
+      (pin output line (at 0 -114.46 0) (length 2.54)
+        (name "AGND" (effects (font (size 1.27 1.27))))
+        (number "45" (effects (font (size 1.27 1.27))))
+      )
